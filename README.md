@@ -157,9 +157,9 @@ Future
 
 - [x] GitHub Repository
 - [x] Project Documentation
-- [ ] Business Requirements
-- [ ] User Stories
-- [ ] Dimensional Modeling
+- [x] Business Requirements
+- [x] User Stories
+- [x] Dimensional Modeling
 
 ## Phase 2
 
