@@ -31,14 +31,14 @@ The Culture Intelligence Platform is built upon four conceptual pillars.
 ```
                           Culture Intelligence Platform
 
-                                        │
-      ┌───────────────────┬─────────────┼──────────────┬───────────────────┐
-      │                   │             │              │
-Representativeness   Materiality   Digital Accessibility   Data Maturity
-      │                   │             │              │
- Collection Size      Supports      Digitization      Confidence
- Museum Network       Formats       Public Access     Completeness
- Geographic View      Preservation  Availability      Data Updates
+                                          │
+      ┌───────────────────┬───────────────┼────────────────────────┐
+      │                   │               │                        │ 
+Representativeness   Materiality    Digital Accessibility    Data Maturity
+      │                   │               │                        │
+ Collection Size      Supports        Digitization             Confidence
+ Museum Network       Formats         Public Access           Completeness
+ Geographic View      Preservation    Availability            Data Updates
 ```
 
 ---
